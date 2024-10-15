@@ -1,6 +1,6 @@
-# jetbrains-plugin
+# jetbrains-plugin-template
 
-![Build](https://github.com/co-pine/jetbrains-plugin/workflows/Build/badge.svg)
+![Build](https://github.com/co-pine/jetbrains-plugin-template/workflows/Build/badge.svg)
 [![Version](https://img.shields.io/jetbrains/plugin/v/MARKETPLACE_ID.svg)](https://plugins.jetbrains.com/plugin/MARKETPLACE_ID)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/MARKETPLACE_ID.svg)](https://plugins.jetbrains.com/plugin/MARKETPLACE_ID)
 
@@ -19,7 +19,7 @@
 <!-- Plugin description -->
 This Fancy IntelliJ Platform Plugin is going to be your implementation of the brilliant ideas that you have.
 
-This specific section is a source for the [plugin.xml](/src/main/resources/META-INF/plugin.xml) file which will be extracted by the [Gradle](/build.gradle.kts) during the build process.
+This specific section is a source for the [plugin.xml](/src/main/resources/META-INF/plugin.xml) file which will be extracted by the [Gradle](/build.gradle.kts.bak) during the build process.
 
 To keep everything working, do not remove `<!-- ... -->` sections. 
 <!-- Plugin description end -->
@@ -28,7 +28,7 @@ To keep everything working, do not remove `<!-- ... -->` sections.
 
 - Using the IDE built-in plugin system:
   
-  <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>Marketplace</kbd> > <kbd>Search for "jetbrains-plugin"</kbd> >
+  <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>Marketplace</kbd> > <kbd>Search for "jetbrains-plugin-template"</kbd> >
   <kbd>Install</kbd>
   
 - Using JetBrains Marketplace:
@@ -40,7 +40,7 @@ To keep everything working, do not remove `<!-- ... -->` sections.
 
 - Manually:
 
-  Download the [latest release](https://github.com/co-pine/jetbrains-plugin/releases/latest) and install it manually using
+  Download the [latest release](https://github.com/co-pine/jetbrains-plugin-template/releases/latest) and install it manually using
   <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>⚙️</kbd> > <kbd>Install plugin from disk...</kbd>
 
 
