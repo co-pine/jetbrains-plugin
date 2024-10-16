@@ -1,7 +1,7 @@
 [versions]
 # libraries
 junit = "4.13.2"
-lombok = "1.18.24"
+lombok = "1.18.34"
 hutool = "5.8.25"
 
 # plugins
