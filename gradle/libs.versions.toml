@@ -2,7 +2,7 @@
 # libraries
 junit = "4.13.2"
 lombok = "1.18.24"
-hutool = "5.8.25"
+hutool = "5.8.32"
 
 # plugins
 changelog = "2.2.1"
